@@ -1,7 +1,7 @@
-import 'package:fancy_dialog_example/main.dart';
-import 'package:fancy_dialog_example/test_page.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'test_page.dart';
+import 'main.dart';
 
 
 class RouteGenerator {
